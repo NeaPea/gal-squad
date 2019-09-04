@@ -37,3 +37,19 @@
   .dropdown:hover .dropbtn {
     background-color: #3e8e41;
   }
+
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  p{
+    color: black;
+    width: auto;
+	height: 60px;
+	margin-top: 6px;
+	margin-left: 6px;
+}
+.overskrift{
+  text-align: center
+}
